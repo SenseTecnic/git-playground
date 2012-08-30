@@ -5,3 +5,4 @@
 *.war
 *.ear
 /ignored_folder
+/content/.project
