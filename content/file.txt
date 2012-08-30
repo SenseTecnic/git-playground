@@ -2,9 +2,7 @@ This line is initially committed by Daniel
 
 !!! Line added by Ted !!!
 
-This line is initially committed by Daniel,  
- !!!MAKING A CHANGE!!!!!!MAKING A CHANGE!!!
- !!!MAKING A CHANGE!!! !!!MAKING A CHANGE!!!
- A conflict will occur. 
+<<<<<<< HEAD
+testtesttesttesttest
 
 !!! Line added by Ted !!!
