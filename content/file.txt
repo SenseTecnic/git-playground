@@ -2,6 +2,6 @@ This line is initially committed by Daniel
 
 !!! Line added by Ted !!!
 
-This line is initially committed by Daniel,  but Ted will change this line and committed. !!! Line added by Ted !!! ... whahaha .... Daniel will also change this line without pulling Ted's change. A conflict will occur. 
+This line is initially committed by Daniel,  !!!MAKING A CHANGE!!! A conflict will occur. 
 
 !!! Line added by Ted !!!
