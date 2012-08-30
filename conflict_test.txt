@@ -1,4 +1,5 @@
 test123
 
+something in between
 
-this is a body of text for testing conflict
+this is a body of text for testing more conflicts
