@@ -2,6 +2,9 @@ This line is initially committed by Daniel
 
 !!! Line added by Ted !!!
 
-This line is initially committed by Daniel,  !!!TESTING OVERRIDE!!! A conflict will occur. 
+This line is initially committed by Daniel,  
+ !!!MAKING A CHANGE!!!!!!MAKING A CHANGE!!!
+ !!!MAKING A CHANGE!!! !!!MAKING A CHANGE!!!
+ A conflict will occur. 
 
 !!! Line added by Ted !!!
