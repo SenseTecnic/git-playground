@@ -2,7 +2,6 @@ This line is initially committed by Daniel
 
 !!! Line added by Ted !!!
 
-<<<<<<< HEAD
 testtesttesttesttest
 
 !!! Line added by Ted !!!
