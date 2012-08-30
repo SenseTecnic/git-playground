@@ -1,3 +1,3 @@
 This line is initially committed by Daniel
 
-This line is initially committed by Daniel,  but Ted will change this line and committed. Daniel will also change this line without pulling Ted's change. A conflict will occur. 
+This line is initially committed by Daniel,  but Ted will change this line and committed. ... blah blah blah .... Daniel will also change this line without pulling Ted's change. A conflict will occur. 
