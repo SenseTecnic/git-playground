@@ -1,7 +1,0 @@
-This line is initially committed by Daniel
-
-!!! Line added by Ted !!!
-
-This line is initially committed by Daniel,  but Ted will change this line and committed. !!! Line added by Ted !!! Daniel will also change this line without pulling Ted's change. A conflict will occur. 
-
-!!! Line added by Ted !!!

@@ -1,0 +1,3 @@
+[submodule "Site2"]
+	path = Site2
+	url = file:////home/ted/Git/Site2

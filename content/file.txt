@@ -1,7 +1,0 @@
-This line is initially committed by Daniel
-
-!!! Line added by Ted !!!
-
-testtesttesttesttest
-
-!!! Line added by Ted !!!
